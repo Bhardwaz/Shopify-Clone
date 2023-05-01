@@ -5,3 +5,5 @@
 
 # Honest time in completion
 ### it took 2 days in completion.
+
+![Preview](https://fsjs-shopify-clonee.netlify.app/)
